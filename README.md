@@ -23,8 +23,6 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-0a0a0a?style=for-badge&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/-CSS3-0a0a0a?style=for-badge&logo=css3&logoColor=1572B6)
 ![SQL](https://img.shields.io/badge/-SQL-0a0a0a?style=for-badge&logo=postgresql&logoColor=4169E1)
-![JSON](https://img.shields.io/badge/-JSON-0a0a0a?style=for-badge&logo=json&logoColor=000000)
-![CSV](https://img.shields.io/badge/-CSV-0a0a0a?style=for-badge&logo=csv&logoColor=000000)
 ![Git](https://img.shields.io/badge/-Git-0a0a0a?style=for-badge&logo=git&logoColor=F05032)
 ![Unity](https://img.shields.io/badge/-Unity-0a0a0a?style=for-badge&logo=unity&logoColor=FFFFFF)
 ![Roblox Studio](https://img.shields.io/badge/-Roblox%20Studio-0a0a0a?style=for-badge&logo=roblox&logoColor=00A2FF)
