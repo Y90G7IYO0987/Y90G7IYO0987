@@ -1,4 +1,4 @@
-[![Header](https://github.com/Y90G7IYO0987/Y90G7IYO0987/blob/main/assets/banner.jpg)](https://www.youtube.com/@atsprofi8486)
+[![Header](https://github.com/Y90G7IYO0987/Y90G7IYO0987/blob/main/assets/Ats-Profi-Banner.png)](https://www.youtube.com/@atsprofi8486)
 
 # 👋 Hi, I'm - Timur
 > *"I build worlds, I write code, sometimes I sleep"*
