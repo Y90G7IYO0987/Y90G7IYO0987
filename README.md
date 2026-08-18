@@ -31,11 +31,11 @@
 ![SQL](https://img.shields.io/badge/-SQL-0a0a0a?style=for-badge&logo=postgresql&logoColor=4169E1)
 ![JSON](https://img.shields.io/badge/-JSON-0a0a0a?style=for-badge&logo=json&logoColor=000000)
 ![CSV](https://img.shields.io/badge/-CSV-0a0a0a?style=for-badge&logo=csv&logoColor=000000)
-
 ### Tools
 ![Git](https://img.shields.io/badge/-Git-0a0a0a?style=for-badge&logo=git&logoColor=F05032)
 ![Unity](https://img.shields.io/badge/-Unity-0a0a0a?style=for-badge&logo=unity&logoColor=FFFFFF)
 ![Roblox Studio](https://img.shields.io/badge/-Roblox%20Studio-0a0a0a?style=for-badge&logo=roblox&logoColor=00A2FF)
+
 
 ## 🚀 Projects
 
@@ -54,4 +54,11 @@
 
 ---
 
-Follow Me
+## 💬 My Socials
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/PP_Game_Dev)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/X2J6aPRDa9)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@atsprofi8486)
+[![itch.io](https://img.shields.io/badge/itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://ats-profi-prog.itch.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/timur-undefined-3a37ab425/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:atsprofi427@gmail.com)
