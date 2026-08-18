@@ -15,23 +15,16 @@
 ---
 
 ## 🛠️ Technologies and tools
-
-### Languages
 ![Luau](https://img.shields.io/badge/-Luau-0a0a0a?style=for-badge&logo=roblox&logoColor=00A2FF)
 ![C#](https://img.shields.io/badge/-C%23-0a0a0a?style=for-badge&logo=csharp&logoColor=239120)
 ![Python](https://img.shields.io/badge/-Python-0a0a0a?style=for-badge&logo=python&logoColor=3776AB)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0a0a0a?style=for-badge&logo=javascript&logoColor=F7DF1E)
 ![C++](https://img.shields.io/badge/-C++-0a0a0a?style=for-badge&logo=cplusplus&logoColor=00599C)
-
-### Web
 ![HTML5](https://img.shields.io/badge/-HTML5-0a0a0a?style=for-badge&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/-CSS3-0a0a0a?style=for-badge&logo=css3&logoColor=1572B6)
-
-### Databases and formats
 ![SQL](https://img.shields.io/badge/-SQL-0a0a0a?style=for-badge&logo=postgresql&logoColor=4169E1)
 ![JSON](https://img.shields.io/badge/-JSON-0a0a0a?style=for-badge&logo=json&logoColor=000000)
 ![CSV](https://img.shields.io/badge/-CSV-0a0a0a?style=for-badge&logo=csv&logoColor=000000)
-### Tools
 ![Git](https://img.shields.io/badge/-Git-0a0a0a?style=for-badge&logo=git&logoColor=F05032)
 ![Unity](https://img.shields.io/badge/-Unity-0a0a0a?style=for-badge&logo=unity&logoColor=FFFFFF)
 ![Roblox Studio](https://img.shields.io/badge/-Roblox%20Studio-0a0a0a?style=for-badge&logo=roblox&logoColor=00A2FF)
